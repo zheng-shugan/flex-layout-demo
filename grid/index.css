@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  background: #fff;
+}
+
+.Grid {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.Grid-cell {
+  margin-right: 10px;
+  background: rgba(244, 243, 240);
+  justify-content: center;
+  flex: 1;
+}
